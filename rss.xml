@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+ <channel>
+ <title>Noticias Motor</title>
+ <link>http://index.html</link>
+ <description>Noticias del mundo de las motos y actuliadad</description>
+
+ <item>
+ <title>calendario MotoE</title>
+ <link>index2.html</link>
+ <description>Visita la Guía Fácil del RSS para saber qué es el
+ formato RSS</description>
+ </item>
+ <item>
+ <title>Para qué sirve el RSSl</title>
+ <link>index3.html
+ </link>
+ <description>Visita la Guía Fácil del RSS y conoce para qué sirve el
+ formato RSS</description>
+ </item>
+ <item>
+ <title>Cómo se usa el RSS</title>
+ <link>http://es.geocities.com/rss_guia_facil/como_se_usa_rss.html
+6
+ </link>
+ <description>Visita la Guía Fácil del RSS para saber cómo usar el
+ formato RSS</description>
+ </item>
+ </channel>
+</rss>
